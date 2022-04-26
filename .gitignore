@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs
+*.pdb
+/sdl2_engine/Debug
+/sdl2_engine/Release
+/sdl2_engine/x64
+*.user
+*.exe
