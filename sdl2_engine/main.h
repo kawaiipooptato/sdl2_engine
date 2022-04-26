@@ -13,9 +13,8 @@
 #include "GameStateMgr.h"
 #include "GameStateList.h"
 
-class Window
+struct Window
 {
-public:
 	SDL_Window* window = nullptr;
 	SDL_GLContext glContext = nullptr;
 };
